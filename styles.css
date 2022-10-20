@@ -1,0 +1,165 @@
+body    {
+    background-image: url('images/bakgrund_3.0.jpg');
+    background-size: cover;
+}
+
+.yttreBubbla {
+    background-color: #643F2D;
+    opacity: 0.95;
+    border-radius: 100px;
+}
+
+#profil {   
+    margin-right: 1%;
+    margin-top: 1%;
+    text-align: center;
+    width: 330px;
+    height: 330px;
+    float: right;
+    border-radius: 100px;
+    background-color: #643F2D;
+}
+
+#bild   {
+    margin-top: 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+#omMig {
+    color: white;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 1130px;
+    height: 330px;
+    text-align: center;
+    position: absolute;
+}
+
+#mig    {
+    float: left;
+    margin-left: 20%;
+}
+
+#namn   {
+    float: right;
+    margin-right: 20%;
+}
+
+.inreBubbla {
+    background-color: #8F796D;
+    border-radius: 100px;
+    width: 280px;
+    height: 230px;
+    margin-top: 27.5px;
+    margin-left: 25px;
+}
+
+#migBubbla  {
+    width: 1070px;
+    height: 210px;
+    margin-top: 7%;
+    margin-left: 30px;
+}
+
+#migText    {
+    margin-top: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 30px;  
+}
+
+#yttreUtbildning    {
+    height: 330px;
+    width: 330px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+}
+
+
+.rubrikSmåBubblor   {
+    color: white;
+    text-align: center;
+}
+
+#yttreErfarenheter  {
+    height: 330px;
+    width: 330px;
+    position: absolute;
+    bottom: 30px;
+    left: 430px;
+}
+
+
+#yttreIntressen  {
+    width: 330px;
+    height: 330px;
+    position: absolute;
+    bottom: 30px;
+    left: 823px;
+}
+
+.inreBubbla > p {
+    color: white;
+    font-size: large;
+    margin-left: 30px;  
+}
+
+#yttreIkoner {
+    height: 330px;
+    width: 380px;
+    position: absolute;
+    bottom: 30px;
+    right: 3px;
+}
+
+#mail   {
+    height: 125px;
+    width: 125px;
+    margin-left: 15%;
+    background-color: white;
+    border-radius: 10%;
+    margin-top: 40px;
+    position: absolute;
+}
+
+#linkedin   {
+    height: 125px;
+    width: 125px;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 10%;
+    position: absolute;
+}
+
+#facebook   {
+    height: 125px;
+    width: 125px;
+    margin-left: 15%;
+    margin-top: 47%;
+    background-color: white;
+    border-radius: 20%;
+    position: absolute;
+}
+
+#twitter    {
+    height: 125px;
+    width: 125px;
+    background-color: white;
+    border-radius: 20%;
+    margin-top: 47%;
+    margin-left: 200px;
+    position: absolute;
+}
+
+#start  {
+    background: url(images/startAnimering.gif) no-repeat center center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 99;
+}
